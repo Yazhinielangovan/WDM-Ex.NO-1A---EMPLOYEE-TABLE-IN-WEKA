@@ -38,40 +38,9 @@ Training Data Set  Employee Table
 
 <img width="707" height="766" alt="image" src="https://github.com/user-attachments/assets/dd3ee012-ad5e-460d-93af-049f16e3579d" />
 
-
- 
 Output:
 
-
-
-<img width="941" height="561" alt="image" src="https://github.com/user-attachments/assets/5dee0b73-ce07-4230-a752-d2d57e6836f5" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="567" height="295" alt="image" src="https://github.com/user-attachments/assets/53d8352a-f4e7-4777-84e2-2b643c0e84f5" />
 
 Result:
 Thus the employee table has been created successfully using Weka Tool.

@@ -1,7 +1,7 @@
 # WDM-Ex.NO-1---EMPLOYEE-TABLE-IN-WEKA
 ## Name: Yazhini E
 ## Rog.no.: 2305002028
-Aim:
+### Aim:
 To Create an Employee Table with the help of Data Mining Tool WEKA.
 Description:
 We need to create an Employee Table with training data set which includes attributes like name, id, salary, experience, gender, phone number.
@@ -36,13 +36,13 @@ b,105,high,2,male,240240
 7)	Explorer shows many options. In that click on ‘open file’ and select the arff file
 8)	Click on edit button which shows employee table on weka.
  
-Training Data Set  Employee Table
+### Training Data Set  Employee Table
 
 <img width="707" height="766" alt="image" src="https://github.com/user-attachments/assets/dd3ee012-ad5e-460d-93af-049f16e3579d" />
 
-Output:
+### Output:
 
 <img width="567" height="295" alt="image" src="https://github.com/user-attachments/assets/53d8352a-f4e7-4777-84e2-2b643c0e84f5" />
 
-Result:
+### Result:
 Thus the employee table has been created successfully using Weka Tool.

@@ -1,4 +1,6 @@
 # WDM-Ex.NO-1---EMPLOYEE-TABLE-IN-WEKA
+## Name: Yazhini E
+## Rog.no.: 2305002028
 Aim:
 To Create an Employee Table with the help of Data Mining Tool WEKA.
 Description:
